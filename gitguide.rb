@@ -41,6 +41,10 @@
 
 #now go back to my-great-feature branch and append "last items" to file 2
 
+#to merge, after saving file2 changes on feature branch, go back to master branch and type git merge "feature branch name"
+#(may ask for a reason)
+#to confirm merge cat file2.txt
+
 
 
 
