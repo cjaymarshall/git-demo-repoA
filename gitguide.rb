@@ -28,5 +28,23 @@
 #  if you checkout back to the latest version, git will not treat this as if you are back at the latest version, it will still be detached
 #  to get back to the latest point checkout to master
 
+#DON"T MAKE CHANGES TO FILES IN THE DETACHED HEAD STATE
+
+#A feature branch is a branch that is used to develop a feature in a manner that is isolate from the live site
+
+#to determine the branch you are on type git branch
+
+#to create a new branch checkout to -b 'feature-name'
+
+
+
+
+
+
+
+
+
+
+
 
 
