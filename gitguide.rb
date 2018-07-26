@@ -20,3 +20,13 @@
 #now, make a change to file2.txt by using echo and piping in some content
 #  echo "some content" > file2.txt
 #add and commit this change
+#to see list of commits use git log
+
+#to go back and look at what code looked like during a particular commit, take the commit id and use the git checkout command on it
+#  eg--git checkout 078a2e6a72e981b4192b112ce5eadcb41f076033
+#  if this takes the head to a different head location it will say that the head is now in a detached state--you can make changes but in order to save them you would have to do so on another branch
+#  if you checkout back to the latest version, git will not treat this as if you are back at the latest version, it will still be detached
+#  to get back to the latest point checkout to master
+
+
+
