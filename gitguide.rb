@@ -17,3 +17,6 @@
 
 #commit files using git commit -m "Initial commit"
 
+#now, make a change to file2.txt by using echo and piping in some content
+#  echo "some content" > file2.txt
+#add and commit this change
