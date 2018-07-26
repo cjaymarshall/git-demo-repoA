@@ -49,10 +49,23 @@
 
 #conflicts
 
-#create a readme file
-#  touch README.md
+#  create a readme file
+#    touch README.md
+#    then add a markdown ## header to the file just to be able to save
+#    then add and commit and push
+#    (to see where the repo is type git remote -v)
 
+#  create a conflict
+#    go into the readme file directly on github and add "some content", and commit this change-as if another developer added the changes
+#    then go into the terminal/sublime and add different changes to the readme
 
+#then use git pull to pull all of the current status of the project to a local machine
+#  if there are no conflicts all of the code will be pulled
+#  but, the above would create a conflict and would get a conflict error
+
+#  then opening in sublime will show each part of the conflict and allow you to mak a choice--save this choice
+
+#get status will explain that the unmerged paths exist--to accomplish your choice just git add . and commit saying fixed merged conflicts--then push
 
 
 
