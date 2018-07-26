@@ -45,6 +45,8 @@
 #(may ask for a reason)
 #to confirm merge cat file2.txt
 
+#now, create a repo for this on github and push this up to that repo
+
 
 
 
