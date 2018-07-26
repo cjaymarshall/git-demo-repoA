@@ -36,6 +36,10 @@
 
 #to create a new branch checkout to -b 'feature-name'
 #  append "some more content" to file2.txt
+#  switch back to master branch
+#  see that the changes to file2 are not present
+
+#now go back to my-great-feature branch and append "last items" to file 2
 
 
 
