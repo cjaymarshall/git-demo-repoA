@@ -47,6 +47,12 @@
 
 #now, create a repo for this on github and push this up to that repo
 
+#conflicts
+
+#create a readme file
+#  touch README.md
+
+
 
 
 
